@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-testing first repository creation
+Bonjour monde
